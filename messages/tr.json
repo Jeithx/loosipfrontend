@@ -1,0 +1,383 @@
+{
+  "HomePage": {
+    "hero": {
+      "title": "İçeriğinizle daha fazla kazanın",
+      "subtitle": "🚀 Hazır çözümümüzle kendi premium içerik platformunuzu başlatın.",
+      "tryForFree": "ÜCRETSİZ DENEYİN",
+      "exploreMore": "Daha Fazla Keşfet"
+    },
+    "features": {
+      "paywallNetwork": {
+        "title": "Ücretli sosyal ağ",
+        "description": "Modern, abonelik tabanlı bir sosyal ağda içerik alıp satın."
+      },
+      "forFansAndCreators": {
+        "title": "Hayranlar ve içerik üreticileri için",
+        "description": "Topluluğumuza katılın, ister hayran ister içerik üreticisi olun."
+      },
+      "qualityContent": {
+        "title": "Kaliteli içeriğin tadını çıkarın",
+        "description": "Sizin ve sizin gibi olanlar için hazırlanmış yüksek kaliteli içeriklerin tadını çıkarın."
+      }
+    },
+    "becomeCreator": {
+      "title": "Sadece birkaç tıklamayla profilinizi oluşturun",
+      "description": "Bir içerik üreticisi olun ve premium içeriklerinizi güvenle platformumuzda paylaşın. Satışlarınızdan %85'e kadar kazanın ve sadık bir hayran kitlesine sahip olun.",
+      "cta": "İÇERİK ÜRETİCİSİ OLUN"
+    },
+    "mainFeatures": {
+      "title": "Ana Özellikler",
+      "subtitle": "Scriptimizin sunduğu başlıca özelliklere bir bakış",
+      "titles": {
+        "advancedPaywall": "Gelişmiş ücretli duvar",
+        "advancedPosting": "Gelişmiş paylaşım araçları",
+        "liveMessenger": "Canlı mesajlaşma",
+        "mobileReady": "Mobil Uyumlu",
+        "themes": "Açık & Koyu temalar",
+        "localization": "Çoklu dil & RTL desteği",
+        "bookmarks": "Gönderi yer imleri & Kullanıcı listeleri",
+        "reporting": "İçerik raporlama özellikleri",
+        "liveStreaming": "Canlı yayın"
+      },
+      "list": {
+        "advancedPaywall": "Abonelik veya izleme başına ödeme (PPV) dahil çeşitli formatlarda içerik alıp satın, ücretli veya ücretsiz profilleri takip edin.",
+        "advancedPosting": "Taslak gönderiler, zamanlanmış gönderiler, süresi dolan gönderiler, PPV gönderiler, bulanık önizlemeler ve daha fazlası gibi kapsamlı paylaşım araçları.",
+        "liveMessenger": "Canlı mesajlaşma modülümüzle kitlenizle etkileşimde kalın, PPV içerik sunun ve daha fazlasını yapın.",
+        "mobileReady": "Çapraz uyumlu ve mobil öncelikli tasarımımız sayesinde favori içeriğinizi her ekranda ve cihazda deneyimleyin.",
+        "themes": "İçeriğinizi ister koyu ister açık modda görüntüleyin. Anında özel temalar da oluşturabilirsiniz.",
+        "localization": "Çoklu dil ve sağdan sola (RTL) uyumluluğu ile sitenizi kolayca yerelleştirin, tüm dünyadaki kullanıcılar için sorunsuz bir deneyim sunun.",
+        "bookmarks": "Gönderileri yer imlerine ekleyerek ve kullanıcı listelerini yöneterek favori içeriklerinize ve üreticilere kolayca erişin.",
+        "reporting": "Kullanıcıların uygunsuz içerik ve davranışları bildirmesini sağlayarak topluluk güvenliğini artırın, hızlı ve etkili moderasyon sağlayın.",
+        "liveStreaming": "RMTP teknolojisiyle canlı yayın yaparak kitlenizle etkileşimde kalın. OBS veya alternatif bir yazılım gereklidir."
+      }
+    },
+    "featuredCreators": {
+      "title": "Öne çıkan içerik üreticileri",
+      "subtitle": "Keşfetmeye başlamak için seçilmiş içerik üreticilerinin listesi!"
+    },
+    "footer": {
+      "gotQuestions": "Sorularınız mı var?",
+      "contactUs": "Bize mesaj göndermekten çekinmeyin",
+      "contact": "İletişim",
+      "help": "Yardım & SSS",
+      "privacy": "Gizlilik Politikası",
+      "terms": "Şartlar ve Koşullar",
+      "copyright": "© 2025 Justfans. Tüm hakları saklıdır.",
+      "light": "Açık",
+      "dark": "Koyu",
+      "language": "Dil"
+    }
+  },
+  "menu": {
+    "myAccount": "Hesabım",
+    "profile": "Profil",
+    "billing": "Faturalandırma",
+    "settings": "Ayarlar",
+    "logout": "Çıkış yap",
+    "becomeCreator": "İçerik Üreticisi Ol",
+    "login": "Giriş Yap"
+  },
+  "sidebar": {
+    "home": "Ana Sayfa",
+    "notifications": "Bildirimler",
+    "messages": "Mesajlar",
+    "streams": "Yayınlar",
+    "bookmarks": "Yer İmleri",
+    "lists": "Listeler",
+    "subscriptions": "Abonelikler",
+    "myProfile": "Profilim",
+    "more": "Daha Fazla",
+    "goLive": "Canlı Yayın",
+    "newPost": "Yeni Gönderi",
+    "Settings": "Ayarlar"
+  },
+  "createPost": {
+    "title": "Yeni Gönderi Oluştur",
+    "subtitle": "Hikayenizi paylaşın ve yanınızda harika insanlarla bağlantı kurun",
+    "placeholder": "Arkadaşlarınıza içerik paylaşın",
+    "saveDraft": "Taslak Kaydet",
+    "share": "Paylaş"
+  },
+  "notifications": {
+    "title": "Bildirimler",
+    "tabs": {
+      "all": "Tümü",
+      "messages": "Mesajlar",
+      "likes": "Beğeniler",
+      "subscriptions": "Abonelikler",
+      "tips": "İpuçları"
+    },
+    "noNotification": "Bildirim yok"
+  },
+  "chats": {
+    "title": "Sohbetler",
+    "noSelected": "Sohbet seçilmedi",
+    "selectChat": "Listeden bir sohbet seçin veya yeni bir sohbette mesajlaşmaya başlayın.",
+    "newMessage": "Yeni Mesaj",
+    "startConversation": "Birine sohbet başlatın",
+    "selectUser": "Kullanıcı Seç",
+    "searchUser": "Bir kullanıcı arayın...",
+    "searchUsers": "Kullanıcıları arayın...",
+    "selectAUser": "Yeni bir sohbette başlatmak için bir kullanıcı seçin",
+    "yourMessage": "Mesajınız",
+    "type": "İlk mesajınızı yazın...",
+    "send": "Mesaj Gönder"
+  },
+  "common": {
+    "onlineNow": "Şimdi Çevrimiçi",
+    "lastSeenRecently": "Son görülmekte"
+  },
+  "userSettings": {
+    "title": "Ayarlar",
+    "subtitle": "Hesabınızı yönetin",
+    "list": {
+      "titles": {
+        "profile": "Profil",
+        "account": "Hesap",
+        "wallet": "Cüzdan",
+        "payments": "Ödemeler",
+        "rates": "Oranlar",
+        "subscriptions": "Abonelikler",
+        "referrals": "Referanslar",
+        "notifications": "Bildirimler",
+        "privacy": "Gizlilik",
+        "verify": "Doğrula"
+      }
+    }
+  },
+  "settingsPages": {
+    "profile": {
+      "headTitle": "Profil",
+      "headDescription": "Biyografinizi, kapak ve avatarınızı güncelleyin",
+      "username": "Kullanıcı Adı",
+      "fullName": "Tam Ad",
+      "bio": "Biyograf",
+      "biography": "Biyografi",
+      "bioPlaceholder": "Kendiniz hakkında bir şey yazın",
+      "birthdate": "Doğum Tarihi",
+      "selectDate": "Tarih Seç",
+      "gender": "Cinsiyet",
+      "genderPronoun": "Cinsiyet Pronu",
+      "selectGender": "Cinsiyet Seç",
+      "selectGenderPronoun": "Cinsiyet Pronu Seç",
+      "country": "Ülke",
+      "selectCountry": "Ülke Seç",
+      "searchCountry": "Ülke Ara",
+      "location": "Konum",
+      "locationPlaceholder": "Konumunuzu girin"
+    },
+    "account": {
+      "headTitle": "Hesap",
+      "headDescription": "Hesap ayarlarınızı yönetin",
+      "currentPassword": "Mevcut Şifre",
+      "newPassword": "Yeni Şifre",
+      "confirmPassword": "Şifreyi Onayla",
+      "currentPasswordPlaceholder": "Mevcut şifrenizi girin",
+      "newPasswordPlaceholder": "Yeni şifrenizi girin",
+      "confirmPasswordPlaceholder": "Yeni şifrenizi onaylayın",
+      "save": "Kaydet"
+    },
+    "notifications": {
+      "headTitle": "Bildirimler",
+      "headDescription": "Bildirim tercihlerinizi yönetin",
+      "options": {
+        "newContent": "Yeni içerik paylaşıldı",
+        "newSubscription": "Yeni abonelik kaydı",
+        "receivedTip": "Bir ipucu aldınız",
+        "ppvUnlocked": "PPV içerikleriniz açıldı",
+        "newMessage": "Yeni mesaj aldınız",
+        "newComment": "Yeni yorum aldınız",
+        "expiringSubscriptions": "Süresi dolan abonelikler",
+        "upcomingRenewals": "Yaklaşan yenilemeler",
+        "userWentLive": "Takip ettiğiniz bir kullanıcı canlı yayına girdi"
+      }
+    },
+    "payments": {
+      "headTitle": "Ödemeler",
+      "headDescription": "Ödemeleriniz ve cüzdanınız",
+      "type": "Tür",
+      "status": "Durum",
+      "amount": "Miktar",
+      "from": "Kimden",
+      "to": "Hangi",
+      "paidWith": "Ödenen",
+      "renews": "Yenilemeler",
+      "expiresAt": "Sona Erme Tarihi"
+    },
+    "privacy": {
+      "headTitle": "Gizlilik",
+      "headDescription": "Gizliliğiniz ve güvenliğiniz önemlidir",
+      "isPublic": "Genel hesap mı?",
+      "privateInfo": "Profilinizi özel yapmak anlamına gelir:",
+      "privateInfo1": "Arama motorlarından tamamen gizlenir ve kayıtlı olmayan kullanıcılar için tamamen gizlenir.",
+      "privateInfo2": "Ayrıca platformumuzdaki önerilerimizden ve kullanıcı aramalarımızdan genel olarak gizlenir.",
+      "enable2FA": "E-posta 2FA'yı etkinleştir",
+      "enable2FADesc": "Etkinleştirilirse, yeni cihazlardan erişim yeni cihazlardan erişim kısıtlanacaktır."
+    },
+    "rates": {
+      "headTitle": "Oranlar",
+      "headDescription": "Fiyatlar ve Paketler",
+      "paidProfile": "Ücretli profil",
+      "monthly": "Aylık abonelik fiyatı",
+      "threeMonths": "3 aylık abonelikler için aylık fiyat",
+      "sixMonths": "6 aylık abonelikler için aylık fiyat",
+      "yearly": "Yıllık abonelikler için aylık fiyat",
+      "isOfferUntil": "Teklif sona erme tarihi",
+      "selectDate": "Tarih Seç",
+      "promoInfo": "Promosyon başlatmak için aylık fiyatlarınızı azaltın ve bir gelecek promosyon sonu tarihi seçin.",
+      "save": "Kaydet"
+    },
+    "referrals": {
+      "headTitle": "Referanslar",
+      "headDescription": "Başkalarını davet edin ve daha fazla kazanın",
+      "shareInfo": "Arkadaşlarınıza benzersiz bir link paylaşın ve onların aktiviteinden bir komisyon kazanın. Paylaştığınız kadar çok kazanın!",
+      "yourReferralLink": "Referans Linkiniz",
+      "shareLink": "Bu linki paylaşarak komisyonlarınızı başlatın",
+      "copy": "KOPYALA",
+      "copied": "KOPYALANDI!",
+      "peopleJoined": "Referans linkinizle katılanlar",
+      "joined": "Katıldı",
+      "earned": "Kazanılan",
+      "noReferrals": "Henüz referans yok",
+      "startSharing": "Referans linkinizi paylaşarak burada referanslarınızı görüntüleyin!"
+    },
+    "subscription": {
+      "headTitle": "Abonelik",
+      "headDescription": "Aktif abonelikleriniz",
+      "subscriptions": "Abonelikler",
+      "subscribers": "Aboneler",
+      "to": "Hangi",
+      "status": "Durum",
+      "paidWith": "Ödenen",
+      "renews": "Yenilemeler",
+      "expiresAt": "Sona Erme Tarihi"
+    },
+    "verify": {
+      "headTitle": "Doğrula",
+      "headDescription": "Doğrulanın ve şimdi kazanmaya başlayın",
+      "stepsInfo": "Doğrulanması ve madalya almanız için aşağıdaki adımları takip etmeniz gerekmektedir:",
+      "step1": "E-posta adresinizi onaylayın.",
+      "step2": "Doğum tarihinizi ayarlayın.",
+      "step3": "Kimlik kontrolü devam ediyor."
+    },
+    "wallet": {
+      "headTitle": "Cüzdan",
+      "headDescription": "Ödemeleriniz ve cüzdanınız",
+      "deposit": {
+        "proceed": "Ödeme yapmak için devam et",
+        "enterAmount": "Miktar girin",
+        "selectPayment": "Ödeme yöntemi seçin",
+        "paypal": "PayPal",
+        "stripe": "Stripe",
+        "coinbase": "Coinbase",
+        "nowpayments": "NowPayments Kripto",
+        "bank": "Banka Transferi",
+        "deposit": "Yatırım"
+      },
+      "withdraw": {
+        "pendingBalance": "Bekleyen bakiye",
+        "amountPlaceholder": "Miktar ($20 min, $500 max)",
+        "paymentMethod": "Ödeme yöntemi",
+        "selectPayment": "Ödeme yöntemi seçin",
+        "bankAccount": "Banka Hesabı",
+        "bankAccountPlaceholder": "Banka hesabınızı girin",
+        "message": "Mesaj (İsteğe bağlı)",
+        "messagePlaceholder": "Banka hesabı, notlar, vb.",
+        "request": "Para Çekme Talebi",
+        "paypal": "PayPal",
+        "stripe": "Stripe",
+        "coinbase": "Coinbase",
+        "crypto": "Kripto",
+        "bank": "Banka Transferi"
+      },
+      "availableFunds": "Kullanılabilir bakiye. Daha fazla para yatırabilir veya içerik üreticisi olarak daha fazla kazanabilirsiniz."
+    }
+  },
+  "listPage": {
+    "title": "Listeler",
+    "create": "Yeni bir liste oluşturun",
+    "namePlaceholder": "Liste adı",
+    "save": "Kaydet",
+    "nameRequired": "Liste adı gereklidir"
+  },
+  "bookmarksPage": {
+    "title": "Yer İmleri",
+    "all": "Tümü",
+    "photos": "Fotoğraflar",
+    "videos": "Videolar",
+    "audio": "Ses",
+    "locked": "Kilitleme"
+  },
+  "userInfo": {
+    "editProfile": "Profili Düzenle",
+    "availableNow": "Şimdi Mevcut",
+    "joined": "Katıldı"
+  },
+  "userPosts": {
+    "tabs": {
+      "posts": "Gönderiler",
+      "photos": "Fotoğraflar",
+      "videos": "Videolar",
+      "likes": "Beğeniler"
+    },
+    "emptyTab": "{{tab}} için içerik burada gösterilecek.",
+    "recent": "Son"
+  },
+  "signUp": {
+    "becomeCreator": "İçerik Üreticisi Ol",
+    "creatorDescription": "İçerik üretici hesabınızı oluşturun ve içeriklerinizle başlayın.",
+    "namePlaceholder": "Adınız",
+    "emailPlaceholder": "E-posta adresiniz",
+    "passwordPlaceholder": "Şifre",
+    "confirmPasswordPlaceholder": "Şifreyi Onayla",
+    "phoneLabel": "Telefon Numarası",
+    "usernamePlaceholder": "Kullanıcı Adı",
+    "displayNamePlaceholder": "Görünen Ad",
+    "selectDate": "Tarih Seç",
+   "birthdate": "Doğum Tarihi",
+    "selectGender": "Cinsiyet Seç",
+    "gender": {
+      "notSpecified": "Belirtilmedi",
+      "male": "Erkek",
+      "female": "Kadın",
+      "other": "Diğer"
+    },
+    "termsOfUse": "Kullanım Koşulları",
+    "privacyPolicy": "Gizlilik Politikası",
+    "next": "Sonraki",
+    "signUp": "Kayıt Ol",
+    "alreadyHaveAccount": "Zaten bir hesabınız var mı? ",
+    "signIn": "Giriş Yap",
+    "wantUser": "Bir kullanıcı olmak istiyor musunuz? ",
+    "wantCreator": "Bir içerik üreticisi olmak istiyor musunuz? ",
+    "clickHere": "Buraya Tıklayın"
+  },
+  "signIn": {
+    "welcomeBackCreator": "Tekrar Hoş Geldiniz",
+    "creatorDescription": "Premium içerik üretici hesabınıza giriş yapın ve devam edin.",
+    "emailPlaceholder": "E-posta adresiniz",
+    "passwordPlaceholder": "Şifre",
+    "forgotPassword": "Şifreni mi unuttunuz?",
+    "signIn": "Giriş Yap",
+    "noAccount": "Hesabınız yok mu? ",
+    "signUp": "Kayıt Ol",
+    "wantFan": "Bir hayran olarak giriş yapmak istiyor musunuz? ",
+    "wantCreator": "Bir içerik üreticisi olarak giriş yapmak istiyor musunuz? ",
+    "clickHere": "Buraya Tıklayın"
+  },
+  "verify": {
+    "instructions": "E-posta adresinize gönderilen 6 haneli doğrulama kodunu girin",
+    "verify": "Doğrula"
+  },
+  "reset": {
+    "newPasswordPlaceholder": "Yeni şifre",
+    "confirmNewPasswordPlaceholder": "Yeni şifreyi Onayla",
+    "resetPassword": "Şifre Sıfırla"
+  },
+  "forgot": {
+    "emailPlaceholder": "E-posta adresiniz",
+    "resetPassword": "Şifre Sıfırla",
+    "remembered": "Şifrenizi hatırladınız mı? ",
+    "signIn": "Giriş Yap"
+  }
+} 

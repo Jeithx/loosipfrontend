@@ -1,0 +1,380 @@
+{
+  "HomePage": {
+    "hero": {
+      "title": "Make more money with your content",
+      "subtitle": "🚀 Start your own premium creators platform with our ready-to-go solution.",
+      "tryForFree": "TRY FOR FREE",
+      "exploreMore": "Explore More"
+    },
+    "features": {
+      "paywallNetwork": {
+        "title": "Paywall social network",
+        "description": "Buy and sell content on a modern, subscriptions-based social network."
+      },
+      "forFansAndCreators": {
+        "title": "For fans and creators",
+        "description": "Join our thriving community, whether you're here as a fan or creator."
+      },
+      "qualityContent": {
+        "title": "Enjoy quality content",
+        "description": "Enjoy high-quality crafted content, created for you and the ones like you."
+      }
+    },
+    "becomeCreator": {
+      "title": "Create your profile in just a few clicks",
+      "description": "Become a creator and post your premium content securely on our platform. Earn up to 85% out of your sales and enjoy a stable base of fans.",
+      "cta": "BECOME A CREATOR"
+    },
+    "mainFeatures": {
+      "title": "Main Features",
+      "subtitle": "Here's a glimpse at the main features our script offers",
+      "titles": {
+        "advancedPaywall": "Advanced paywall",
+        "advancedPosting": "Advanced posting tools",
+        "liveMessenger": "Live messenger",
+        "mobileReady": "Mobile Ready",
+        "themes": "Light & Dark themes",
+        "localization": "Localization & RTL support",
+        "bookmarks": "Post Bookmarks & User lists",
+        "reporting": "Content reporting features",
+        "liveStreaming": "Live streaming"
+      },
+      "list": {
+        "advancedPaywall": "Buy and sell content in various formats, including subscriptions or pay-per-view (PPV) content, using paid or free to follow profiles.",
+        "advancedPosting": "Comprehensive posting tools, such as draft posts, scheduled posts, expiring posts, pay-per-view posts, blurred previews for posts and more.",
+        "liveMessenger": "Keep your audience engaged through our live messenger module, enabling you to offer PPV content and more.",
+        "mobileReady": "Experience your favorite content on any screen or device, thanks to our cross-compatible and mobile-first design.",
+        "themes": "Enjoy your favourite content on either dark & light mode. You can also generate custom themes on the fly.",
+        "localization": "Easily localize your site with multiple languages and right-to-left (RTL) compatibility, providing a seamless experience for users worldwide.",
+        "bookmarks": "Stay organized by bookmarking posts and managing user lists, ensuring easy access to your favorite content and creators.",
+        "reporting": "Enhance community safety by enabling users to report unsuitable content and conduct, facilitating prompt and efficient moderation.",
+        "liveStreaming": "Stay engaged with your audience using live streaming via RMTP technology. OBS or alternative software is required."
+      }
+    },
+    "featuredCreators": {
+      "title": "Featured creators",
+      "subtitle": "Here's a list of curated content creators to start exploring now!"
+    },
+    "footer": {
+      "gotQuestions": "Got questions?",
+      "contactUs": "Don't hesitate to send us a message at",
+      "contact": "Contact",
+      "help": "Help & FAQ",
+      "privacy": "Privacy Policy",
+      "terms": "Terms and Conditions",
+      "copyright": "© 2025 Justfans. All rights reserved.",
+      "light": "Light",
+      "dark": "Dark",
+      "language": "Language"
+    }
+  },
+  "menu": {
+    "myAccount": "My Account",
+    "profile": "Profile",
+    "billing": "Billing",
+    "settings": "Settings",
+    "logout": "Log out",
+    "becomeCreator": "Become a Content Creator",
+    "login": "Login"
+  },
+  "sidebar": {
+    "home": "Home",
+    "notifications": "Notifications",
+    "messages": "Messages",
+    "streams": "Streams",
+    "bookmarks": "Bookmarks",
+    "lists": "Lists",
+    "subscriptions": "Subscriptions",
+    "myProfile": "My profile",
+    "more": "More",
+    "goLive": "Go Live",
+    "newPost": "New Post"
+  },
+  "createPost": {
+    "title": "Create a New Post",
+    "subtitle": "Share your story and connect with amazing people around you",
+    "placeholder": "Share your content with your friends",
+    "saveDraft": "Save Draft",
+    "share": "Share"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "tabs": {
+      "all": "All",
+      "messages": "Messages",
+      "likes": "Likes",
+      "subscriptions": "Subscriptions",
+      "tips": "Tips"
+    },
+    "noNotification": "No notifications"
+  },
+  "chats": {
+    "title": "Chats",
+    "noSelected": "No chat selected",
+    "selectChat": "Select a conversation from the list or start a new chat to begin messaging.",
+    "newMessage": "New Message",
+    "startConversation": "Start a conversation with someone",
+    "selectUser": "Select User",
+    "searchUser": "Search for a user...",
+    "searchUsers": "Search users...",
+    "selectAUser": "Select a user to start a new conversation",
+    "yourMessage": "Your Message",
+    "type": "Type your first message...",
+    "send": "Send Message"
+  },
+  "common": {
+    "onlineNow": "Online now",
+    "lastSeenRecently": "Last seen recently"
+  },
+  "userSettings": {
+    "title": "Settings",
+    "subtitle": "Manage your account",
+    "list": {
+      "titles": {
+        "profile": "Profile",
+        "account": "Account",
+        "wallet": "Wallet",
+        "payments": "Payments",
+        "rates": "Rates",
+        "subscriptions": "Subscriptions",
+        "referrals": "Referrals",
+        "notifications": "Notifications",
+        "privacy": "Privacy",
+        "verify": "Verify"
+      }
+    }
+  },
+  "settingsPages": {
+    "profile": {
+      "headTitle": "Profile",
+      "headDescription": "Update your bio, cover and avatar",
+      "username": "Username",
+      "fullName": "Full Name",
+      "bio": "Biography",
+      "bioPlaceholder": "Write something about yourself",
+      "birthdate": "Birthdate",
+      "selectDate": "Select date",
+      "gender": "Gender",
+      "genderPronoun": "Gender Pronoun",
+      "selectGender": "Select gender",
+      "selectGenderPronoun": "Select gender pronoun",
+      "country": "Country",
+      "selectCountry": "Select country",
+      "searchCountry": "Search country",
+      "location": "Location",
+      "locationPlaceholder": "Enter your location"
+    },
+    "account": {
+      "headTitle": "Account",
+      "headDescription": "Manage your account settings",
+      "currentPassword": "Current Password",
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm Password",
+      "currentPasswordPlaceholder": "Enter your current password",
+      "newPasswordPlaceholder": "Enter your new password",
+      "confirmPasswordPlaceholder": "Confirm your new password",
+      "save": "Save"
+    },
+    "notifications": {
+      "headTitle": "Notifications",
+      "headDescription": "Manage your notification preferences",
+      "options": {
+        "newContent": "New content has been posted",
+        "newSubscription": "New subscription registered",
+        "receivedTip": "Received a tip",
+        "ppvUnlocked": "Your PPV content has been unlocked",
+        "newMessage": "New message received",
+        "newComment": "New comment received",
+        "expiringSubscriptions": "Expiring subscriptions",
+        "upcomingRenewals": "Upcoming renewals",
+        "userWentLive": "A user I am following went live"
+      }
+    },
+    "payments": {
+      "headTitle": "Payments",
+      "headDescription": "Your payments & wallet",
+      "type": "Type",
+      "status": "Status",
+      "amount": "Amount",
+      "from": "From",
+      "to": "To",
+      "paidWith": "Paid with",
+      "renews": "Renews",
+      "expiresAt": "Expires at"
+    },
+    "privacy": {
+      "headTitle": "Privacy",
+      "headDescription": "Your privacy and safety matters",
+      "isPublic": "Is public account",
+      "privateInfo": "Having your profile set to private means:",
+      "privateInfo1": "It will be hidden for search engines and unregistered users entirely.",
+      "privateInfo2": "It will also be generally hidden from suggestions and user searches on our platform.",
+      "enable2FA": "Enable email 2FA",
+      "enable2FADesc": "If enabled, access from new devices will be restricted until verified."
+    },
+    "rates": {
+      "headTitle": "Rates",
+      "headDescription": "Prices & Bundles",
+      "paidProfile": "Paid profile",
+      "monthly": "Monthly subscription price",
+      "threeMonths": "Monthly price for 3 months subscriptions",
+      "sixMonths": "Monthly price for 6 months subscriptions",
+      "yearly": "Monthly price for yearly subscriptions",
+      "isOfferUntil": "Is offer until",
+      "selectDate": "Select date",
+      "promoInfo": "In order to start a promotion, reduce your monthly prices and select a future promotion end date.",
+      "save": "Save"
+    },
+    "referrals": {
+      "headTitle": "Referrals",
+      "headDescription": "Invite other people to earn more",
+      "shareInfo": "Share your unique link with friends and earn a commission from their activity. The more you share, the more you earn!",
+      "yourReferralLink": "Your Referral Link",
+      "shareLink": "Share this link to start earning commissions",
+      "copy": "COPY",
+      "copied": "COPIED!",
+      "peopleJoined": "People who joined using your referral link",
+      "joined": "Joined",
+      "earned": "Earned",
+      "noReferrals": "No referrals yet",
+      "startSharing": "Start sharing your link to see your referrals here!"
+    },
+    "subscription": {
+      "headTitle": "Subscription",
+      "headDescription": "Your active subscriptions",
+      "subscriptions": "Subscriptions",
+      "subscribers": "Subscribers",
+      "to": "To",
+      "status": "Status",
+      "paidWith": "Paid with",
+      "renews": "Renews",
+      "expiresAt": "Expires at"
+    },
+    "verify": {
+      "headTitle": "Verify",
+      "headDescription": "Get verified and start earning now",
+      "stepsInfo": "In order to get verified and receive your badge, please take care of the following steps:",
+      "step1": "Confirm your email address.",
+      "step2": "Set your birthdate.",
+      "step3": "Identity check in progress."
+    },
+    "wallet": {
+      "headTitle": "Wallet",
+      "headDescription": "Your payments & wallet",
+      "deposit": {
+        "proceed": "Proceed with payment",
+        "enterAmount": "Enter amount",
+        "selectPayment": "Select payment method",
+        "paypal": "PayPal",
+        "stripe": "Stripe",
+        "coinbase": "Coinbase",
+        "nowpayments": "NowPayments Crypto",
+        "bank": "Bank Transfer",
+        "deposit": "Deposit"
+      },
+      "withdraw": {
+        "pendingBalance": "Pending balance",
+        "amountPlaceholder": "Amount ($20 min, $500 max)",
+        "paymentMethod": "Payment method",
+        "selectPayment": "Select payment method",
+        "bankAccount": "Bank account",
+        "bankAccountPlaceholder": "Enter bank account",
+        "message": "Message (Optional)",
+        "messagePlaceholder": "Bank account, notes, etc",
+        "request": "Request Withdrawal",
+        "paypal": "PayPal",
+        "stripe": "Stripe",
+        "coinbase": "Coinbase",
+        "crypto": "Crypto",
+        "bank": "Bank Transfer"
+      },
+      "availableFunds": "Available funds. You can deposit more money or become a creator to earn more."
+    }
+  },
+  "listPage": {
+    "title": "Lists",
+    "create": "Create a new list",
+    "namePlaceholder": "List name",
+    "save": "Save",
+    "nameRequired": "List name is required"
+  },
+  "bookmarksPage": {
+    "title": "Bookmarks",
+    "all": "All",
+    "photos": "Photos",
+    "videos": "Videos",
+    "audio": "Audio",
+    "locked": "Locked"
+  },
+  "userInfo": {
+    "editProfile": "Edit profile",
+    "availableNow": "Available now",
+    "joined": "Joined"
+  },
+  "userPosts": {
+    "tabs": {
+      "posts": "Posts",
+      "photos": "Photos",
+      "videos": "Videos",
+      "likes": "Likes"
+    },
+    "emptyTab": "Content for {{tab}} will be shown here.",
+    "recent": "Recent"
+  },
+  "signUp": {
+    "becomeCreator": "Become a Creator",
+    "creatorDescription": "Create your premium creator account and start earning with your content.",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "Your email",
+    "passwordPlaceholder": "Password",
+    "confirmPasswordPlaceholder": "Confirm password",
+    "phoneLabel": "Phone Number",
+    "usernamePlaceholder": "Username",
+    "displayNamePlaceholder": "Display Name",
+    "selectDate": "Select date",
+    "selectGender": "Select gender",
+    "gender": {
+      "notSpecified": "Not specified",
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "termsOfUse": "Terms of Use",
+    "privacyPolicy": "Privacy Policy",
+    "next": "Next",
+    "signUp": "Sign Up",
+    "alreadyHaveAccount": "Already have an account? ",
+    "signIn": "Sign In",
+    "wantUser": "Want to become a user? ",
+    "wantCreator": "Want to become a creator? ",
+    "clickHere": "Click here"
+  },
+  "signIn": {
+    "welcomeBackCreator": "Welcome Back Creator",
+    "creatorDescription": "Sign in to your premium creator account and continue earning.",
+    "emailPlaceholder": "Your email",
+    "passwordPlaceholder": "Password",
+    "forgotPassword": "Forgot password?",
+    "signIn": "Sign In",
+    "noAccount": "Don't have an account? ",
+    "signUp": "Sign Up",
+    "wantFan": "Want to login as a fan? ",
+    "wantCreator": "Want to login as a creator? ",
+    "clickHere": "Click here"
+  },
+  "verify": {
+    "instructions": "Please enter the 6-digit verification code sent to your email",
+    "verify": "Verify"
+  },
+  "reset": {
+    "newPasswordPlaceholder": "New password",
+    "confirmNewPasswordPlaceholder": "Confirm new password",
+    "resetPassword": "Reset Password"
+  },
+  "forgot": {
+    "emailPlaceholder": "Your email",
+    "resetPassword": "Reset Password",
+    "remembered": "Remembered your password? ",
+    "signIn": "Sign in"
+  }
+}

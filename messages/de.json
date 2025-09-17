@@ -1,0 +1,381 @@
+{
+  "HomePage": {
+    "hero": {
+      "title": "Verdiene mehr Geld mit deinen Inhalten",
+      "subtitle": "🚀 Starte deine eigene Premium-Creator-Plattform mit unserer sofort einsatzbereiten Lösung.",
+      "tryForFree": "KOSTENLOS TESTEN",
+      "exploreMore": "Mehr entdecken"
+    },
+    "features": {
+      "paywallNetwork": {
+        "title": "Paywall-Soziales Netzwerk",
+        "description": "Kaufe und verkaufe Inhalte in einem modernen, abonnementsbasierten sozialen Netzwerk."
+      },
+      "forFansAndCreators": {
+        "title": "Für Fans und Creator",
+        "description": "Werde Teil unserer lebendigen Community, egal ob als Fan oder Creator."
+      },
+      "qualityContent": {
+        "title": "Genieße hochwertige Inhalte",
+        "description": "Genieße hochwertige, sorgfältig erstellte Inhalte, die für dich und Gleichgesinnte gemacht sind."
+      }
+    },
+    "becomeCreator": {
+      "title": "Erstelle dein Profil mit nur wenigen Klicks",
+      "description": "Werde Creator und poste deine Premium-Inhalte sicher auf unserer Plattform. Verdiene bis zu 85 % deiner Verkäufe und genieße eine stabile Fanbasis.",
+      "cta": "CREATOR WERDEN"
+    },
+    "mainFeatures": {
+      "title": "Hauptfunktionen",
+      "subtitle": "Hier ist ein Überblick über die Hauptfunktionen, die unser Skript bietet",
+      "titles": {
+        "advancedPaywall": "Erweiterte Paywall",
+        "advancedPosting": "Erweiterte Posting-Tools",
+        "liveMessenger": "Live-Messenger",
+        "mobileReady": "Mobil bereit",
+        "themes": "Hell- & Dunkel-Themen",
+        "localization": "Lokalisierung & RTL-Unterstützung",
+        "bookmarks": "Post-Lesezeichen & Benutzerlisten",
+        "reporting": "Funktionen zur Inhaltsmeldung",
+        "liveStreaming": "Live-Streaming"
+      },
+      "list": {
+        "advancedPaywall": "Kaufe und verkaufe Inhalte in verschiedenen Formaten, einschließlich Abonnements oder Pay-per-View (PPV)-Inhalten, über kostenpflichtige oder kostenlose Profile zum Folgen.",
+        "advancedPosting": "Umfassende Posting-Tools wie Entwurfs-Posts, geplante Posts, ablaufende Posts, Pay-per-View-Posts, unscharfe Vorschauen für Posts und mehr.",
+        "liveMessenger": "Halte dein Publikum mit unserem Live-Messenger-Modul engagiert und biete PPV-Inhalte und mehr an.",
+        "mobileReady": "Erlebe deine Lieblingsinhalte auf jedem Bildschirm oder Gerät dank unseres plattformübergreifenden und mobilfreundlichen Designs.",
+        "themes": "Genieße deine Lieblingsinhalte im Hell- oder Dunkelmodus. Du kannst auch jederzeit benutzerdefinierte Themes erstellen.",
+        "localization": "Lokalisieren Sie Ihre Seite einfach mit mehreren Sprachen und Unterstützung für Rechts-nach-Links (RTL), um Benutzern weltweit ein nahtloses Erlebnis zu bieten.",
+        "bookmarks": "Bleibe organisiert, indem du Posts mit Lesezeichen versiehst und Benutzerlisten verwaltest, um einfachen Zugriff auf deine Lieblingsinhalte und -ersteller zu gewährleisten.",
+        "reporting": "Verbessere die Sicherheit der Community, indem Nutzer unangemessene Inhalte und Verhalten melden können, was eine schnelle und effiziente Moderation ermöglicht.",
+        "liveStreaming": "Bleibe mit deinem Publikum über Live-Streaming via RMTP-Technologie in Kontakt. OBS oder alternative Software wird benötigt."
+      }
+    },
+    "featuredCreators": {
+      "title": "Ausgewählte Creator",
+      "subtitle": "Hier ist eine Liste kuratierter Content-Ersteller, mit denen du jetzt loslegen kannst!"
+    },
+    "footer": {
+      "gotQuestions": "Hast du Fragen?",
+      "contactUs": "Zögere nicht, uns eine Nachricht zu senden an",
+      "contact": "Kontakt",
+      "help": "Hilfe & FAQ",
+      "privacy": "Datenschutzrichtlinie",
+      "terms": "Geschäftsbedingungen",
+      "copyright": "© 2025 Justfans. Alle Rechte vorbehalten.",
+      "light": "Hell",
+      "dark": "Dunkel",
+      "language": "Sprache"
+    }
+  },
+  "menu": {
+    "myAccount": "Mein Konto",
+    "profile": "Profil",
+    "billing": "Abrechnung",
+    "settings": "Einstellungen",
+    "logout": "Abmelden",
+    "becomeCreator": "Content Creator werden",
+    "login": "Anmelden"
+  },
+  "sidebar": {
+    "home": "Startseite",
+    "notifications": "Benachrichtigungen",
+    "messages": "Nachrichten",
+    "streams": "Streams",
+    "bookmarks": "Lesezeichen",
+    "lists": "Listen",
+    "subscriptions": "Abonnements",
+    "myProfile": "Mein Profil",
+    "more": "Mehr",
+    "goLive": "Live gehen",
+    "newPost": "Neuer Beitrag",
+    "settings": "Einstellungen"
+  },
+  "createPost": {
+    "title": "Neuen Beitrag erstellen",
+    "subtitle": "Teile deine Geschichte und verbinde dich mit großartigen Menschen um dich herum",
+    "placeholder": "Teile deine Inhalte mit deinen Freunden",
+    "saveDraft": "Entwurf speichern",
+    "share": "Teilen"
+  },
+  "notifications": {
+    "title": "Benachrichtigungen",
+    "tabs": {
+      "all": "Alle",
+      "messages": "Nachrichten",
+      "likes": "Gefällt mir",
+      "subscriptions": "Abonnements",
+      "tips": "Trinkgelder"
+    },
+    "noNotification": "Keine Benachrichtigungen"
+  },
+  "chats": {
+    "title": "Chats",
+    "noSelected": "Kein Chat ausgewählt",
+    "selectChat": "Wähle eine Unterhaltung aus der Liste oder starte einen neuen Chat, um mit dem Messaging zu beginnen.",
+    "newMessage": "Neue Nachricht",
+    "startConversation": "Beginne eine Unterhaltung mit jemandem",
+    "selectUser": "Benutzer auswählen",
+    "searchUser": "Nach einem Benutzer suchen...",
+    "searchUsers": "Benutzer suchen...",
+    "selectAUser": "Wähle einen Benutzer, um eine neue Unterhaltung zu starten",
+    "yourMessage": "Deine Nachricht",
+    "type": "Schreibe deine erste Nachricht...",
+    "send": "Nachricht senden"
+  },
+  "common": {
+    "onlineNow": "Jetzt online",
+    "lastSeenRecently": "Zuletzt vor Kurzem gesehen"
+  },
+  "userSettings": {
+    "title": "Einstellungen",
+    "subtitle": "Verwalte dein Konto",
+    "list": {
+      "titles": {
+        "profile": "Profil",
+        "account": "Konto",
+        "wallet": "Brieftasche",
+        "payments": "Zahlungen",
+        "rates": "Preise",
+        "subscriptions": "Abonnements",
+        "referrals": "Empfehlungen",
+        "notifications": "Benachrichtigungen",
+        "privacy": "Datenschutz",
+        "verify": "Verifizieren"
+      }
+    }
+  },
+  "settingsPages": {
+    "profile": {
+      "headTitle": "Profil",
+      "headDescription": "Aktualisiere deine Bio, dein Titelbild und dein Avatar",
+      "username": "Benutzername",
+      "fullName": "Vollständiger Name",
+      "bio": "Biografie",
+      "bioPlaceholder": "Schreibe etwas über dich selbst",
+      "birthdate": "Geburtsdatum",
+      "selectDate": "Datum auswählen",
+      "gender": "Geschlecht",
+      "genderPronoun": "Geschlechtspronomen",
+      "selectGender": "Geschlecht auswählen",
+      "selectGenderPronoun": "Geschlechtspronomen auswählen",
+      "country": "Land",
+      "selectCountry": "Land auswählen",
+      "searchCountry": "Land suchen",
+      "location": "Ort",
+      "locationPlaceholder": "Gib deinen Ort ein"
+    },
+    "account": {
+      "headTitle": "Konto",
+      "headDescription": "Verwalte deine Kontoeinstellungen",
+      "currentPassword": "Aktuelles Passwort",
+      "newPassword": "Neues Passwort",
+      "confirmPassword": "Passwort bestätigen",
+      "currentPasswordPlaceholder": "Gib dein aktuelles Passwort ein",
+      "newPasswordPlaceholder": "Gib dein neues Passwort ein",
+      "confirmPasswordPlaceholder": "Bestätige dein neues Passwort",
+      "save": "Speichern"
+    },
+    "notifications": {
+      "headTitle": "Benachrichtigungen",
+      "headDescription": "Verwalte deine Benachrichtigungseinstellungen",
+      "options": {
+        "newContent": "Neuer Inhalt wurde gepostet",
+        "newSubscription": "Neue Anmeldung registriert",
+        "receivedTip": "Trinkgeld erhalten",
+        "ppvUnlocked": "Dein PPV-Inhalt wurde freigeschaltet",
+        "newMessage": "Neue Nachricht erhalten",
+        "newComment": "Neuer Kommentar erhalten",
+        "expiringSubscriptions": "Abonnements laufen ab",
+        "upcomingRenewals": "Bevorstehende Verlängerungen",
+        "userWentLive": "Ein Nutzer, dem ich folge, ist live gegangen"
+      }
+    },
+    "payments": {
+      "headTitle": "Zahlungen",
+      "headDescription": "Deine Zahlungen & Brieftasche",
+      "type": "Typ",
+      "status": "Status",
+      "amount": "Betrag",
+      "from": "Von",
+      "to": "An",
+      "paidWith": "Bezahlt mit",
+      "renews": "Verlängert sich",
+      "expiresAt": "Läuft ab am"
+    },
+    "privacy": {
+      "headTitle": "Datenschutz",
+      "headDescription": "Deine Privatsphäre und Sicherheit sind wichtig",
+      "isPublic": "Öffentliches Konto",
+      "privateInfo": "Wenn dein Profil auf privat gesetzt ist:",
+      "privateInfo1": "Es wird vollständig für Suchmaschinen und nicht angemeldete Nutzer verborgen.",
+      "privateInfo2": "Es wird auch generell aus Vorschlägen und Nutzersuchen auf unserer Plattform ausgeblendet.",
+      "enable2FA": "E-Mail 2FA aktivieren",
+      "enable2FADesc": "Wenn aktiviert, wird der Zugriff von neuen Geräten eingeschränkt, bis verifiziert."
+    },
+    "rates": {
+      "headTitle": "Preise",
+      "headDescription": "Preise & Bundles",
+      "paidProfile": "Bezahltes Profil",
+      "monthly": "Monatlicher Abonnementpreis",
+      "threeMonths": "Monatlicher Preis für 3-Monats-Abos",
+      "sixMonths": "Monatlicher Preis für 6-Monats-Abos",
+      "yearly": "Monatlicher Preis für Jahresabos",
+      "isOfferUntil": "Angebot gültig bis",
+      "selectDate": "Datum auswählen",
+      "promoInfo": "Um eine Aktion zu starten, reduziere deine monatlichen Preise und wähle ein zukünftiges Aktionsenddatum.",
+      "save": "Speichern"
+    },
+    "referrals": {
+      "headTitle": "Empfehlungen",
+      "headDescription": "Lade andere ein, um mehr zu verdienen",
+      "shareInfo": "Teile deinen einzigartigen Link mit Freunden und verdiene eine Provision aus deren Aktivitäten. Je mehr du teilst, desto mehr verdienst du!",
+      "yourReferralLink": "Dein Empfehlungslink",
+      "shareLink": "Teile diesen Link, um Provisionen zu verdienen",
+      "copy": "KOPIEREN",
+      "copied": "KOPIERT!",
+      "peopleJoined": "Personen, die sich über deinen Link angemeldet haben",
+      "joined": "Beigetreten",
+      "earned": "Verdient",
+      "noReferrals": "Noch keine Empfehlungen",
+      "startSharing": "Teile deinen Link, um hier deine Empfehlungen zu sehen!"
+    },
+    "subscription": {
+      "headTitle": "Abonnement",
+      "headDescription": "Deine aktiven Abonnements",
+      "subscriptions": "Abonnements",
+      "subscribers": "Abonnenten",
+      "to": "An",
+      "status": "Status",
+      "paidWith": "Bezahlt mit",
+      "renews": "Verlängert sich",
+      "expiresAt": "Läuft ab am"
+    },
+    "verify": {
+      "headTitle": "Verifizieren",
+      "headDescription": "Lass dich verifizieren und beginne jetzt zu verdienen",
+      "stepsInfo": "Um verifiziert zu werden und dein Abzeichen zu erhalten, erledige bitte die folgenden Schritte:",
+      "step1": "Bestätige deine E-Mail-Adresse.",
+      "step2": "Geburtsdatum festlegen.",
+      "step3": "Identitätsprüfung läuft."
+    },
+    "wallet": {
+      "headTitle": "Brieftasche",
+      "headDescription": "Deine Zahlungen & Brieftasche",
+      "deposit": {
+        "proceed": "Mit der Zahlung fortfahren",
+        "enterAmount": "Betrag eingeben",
+        "selectPayment": "Zahlungsmethode auswählen",
+        "paypal": "PayPal",
+        "stripe": "Stripe",
+        "coinbase": "Coinbase",
+        "nowpayments": "NowPayments Krypto",
+        "bank": "Banküberweisung",
+        "deposit": "Einzahlen"
+      },
+      "withdraw": {
+        "pendingBalance": "Ausstehendes Guthaben",
+        "amountPlaceholder": "Betrag (mind. 20$, max. 500$)",
+        "paymentMethod": "Zahlungsmethode",
+        "selectPayment": "Zahlungsmethode auswählen",
+        "bankAccount": "Bankkonto",
+        "bankAccountPlaceholder": "Bankkonto eingeben",
+        "message": "Nachricht (optional)",
+        "messagePlaceholder": "Bankkonto, Notizen, etc.",
+        "request": "Auszahlung Anfordern",
+        "paypal": "PayPal",
+        "stripe": "Stripe",
+        "coinbase": "Coinbase",
+        "crypto": "Krypto",
+        "bank": "Banküberweisung"
+      },
+      "availableFunds": "Verfügbare Mittel. Du kannst mehr Geld einzahlen oder Creator werden, um mehr zu verdienen."
+    }
+  },
+  "listPage": {
+    "title": "Listen",
+    "create": "Neue Liste erstellen",
+    "namePlaceholder": "Listenname",
+    "save": "Speichern",
+    "nameRequired": "Listenname ist erforderlich"
+  },
+  "bookmarksPage": {
+    "title": "Lesezeichen",
+    "all": "Alle",
+    "photos": "Fotos",
+    "videos": "Videos",
+    "audio": "Audio",
+    "locked": "Gesperrt"
+  },
+  "userInfo": {
+    "editProfile": "Profil bearbeiten",
+    "availableNow": "Jetzt verfügbar",
+    "joined": "Beigetreten"
+  },
+  "userPosts": {
+    "tabs": {
+      "posts": "Beiträge",
+      "photos": "Fotos",
+      "videos": "Videos",
+      "likes": "Gefällt mir"
+    },
+    "emptyTab": "Inhalt für {{tab}} wird hier angezeigt.",
+    "recent": "Neueste"
+  },
+  "signUp": {
+    "becomeCreator": "Creator werden",
+    "creatorDescription": "Erstelle dein Premium-Creator-Konto und beginne, mit deinen Inhalten Geld zu verdienen.",
+    "namePlaceholder": "Dein Name",
+    "emailPlaceholder": "Deine E-Mail",
+    "passwordPlaceholder": "Passwort",
+    "confirmPasswordPlaceholder": "Passwort bestätigen",
+    "phoneLabel": "Telefonnummer",
+    "usernamePlaceholder": "Benutzername",
+    "displayNamePlaceholder": "Anzeigename",
+    "selectDate": "Datum auswählen",
+    "selectGender": "Geschlecht auswählen",
+    "gender": {
+      "notSpecified": "Nicht angegeben",
+      "male": "Männlich",
+      "female": "Weiblich",
+      "other": "Andere"
+    },
+    "termsOfUse": "Nutzungsbedingungen",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "next": "Weiter",
+    "signUp": "Registrieren",
+    "alreadyHaveAccount": "Du hast bereits ein Konto? ",
+    "signIn": "Anmelden",
+    "wantUser": "Möchtest du ein Nutzer werden? ",
+    "wantCreator": "Möchtest du ein Creator werden? ",
+    "clickHere": "Hier klicken"
+  },
+  "signIn": {
+    "welcomeBackCreator": "Willkommen zurück, Creator",
+    "creatorDescription": "Melde dich bei deinem Premium-Creator-Konto an und verdiene weiter.",
+    "emailPlaceholder": "Deine E-Mail",
+    "passwordPlaceholder": "Passwort",
+    "forgotPassword": "Passwort vergessen?",
+    "signIn": "Anmelden",
+    "noAccount": "Du hast noch kein Konto? ",
+    "signUp": "Registrieren",
+    "wantFan": "Als Fan anmelden? ",
+    "wantCreator": "Als Creator anmelden? ",
+    "clickHere": "Hier klicken"
+  },
+  "verify": {
+    "instructions": "Bitte gib den 6-stelligen Bestätigungscode ein, der an deine E-Mail gesendet wurde",
+    "verify": "Bestätigen"
+  },
+  "reset": {
+    "newPasswordPlaceholder": "Neues Passwort",
+    "confirmNewPasswordPlaceholder": "Neues Passwort bestätigen",
+    "resetPassword": "Passwort zurücksetzen"
+  },
+  "forgot": {
+    "emailPlaceholder": "Deine E-Mail",
+    "resetPassword": "Passwort zurücksetzen",
+    "remembered": "Passwort wieder eingefallen? ",
+    "signIn": "Anmelden"
+  }
+}
